@@ -1,0 +1,60 @@
+Mon Oct 16 13:09:24 2017: rubiks cube solved for first time 
+Mon Oct 16 13:09:51 2017: played cricket enjoyed a lot
+Mon Oct 16 13:10:12 2017: had discussion regarding cars:)
+Mon Oct 16 13:13:56 2017: created bottle app very simple
+Tue Oct 17 03:23:48 2017: Did ardhavhandrasan and 2 surya namaskar and pavan mukt aasan and ran 2 rounds
+Tue Oct 17 10:50:45 2017: read half a book around 68 pages:)
+Tue Oct 17 10:50:58 2017: played cricket again
+Tue Oct 17 10:51:20 2017: arranged all the medical and uniform bills
+Tue Oct 17 12:49:59 2017: printed a page for myself first time
+Tue Oct 17 12:56:06 2017: went with obed and friends to br
+Wed Oct 18 06:47:52 2017: got away by paying 50 to bike toll person: misc
+Wed Oct 18 06:58:31 2017: completed db support : academic
+Wed Oct 18 08:01:23 2017: added bootstrap support to  bottle app: academic
+Wed Oct 18 18:07:00 2017: Saw episodes of the gifted and inhumans: misc
+Wed Oct 18 18:07:33 2017: Bought usb mouse and HDMI cable : misc
+Wed Oct 18 18:08:06 2017: Blender simple happy Diwali image and half video: academic
+Thu Oct 19 16:48:31 2017: First selfie with family: family
+Thu Oct 19 16:49:06 2017: Created many garlands: misc
+Thu Oct 19 16:50:51 2017: Watched many shows on tv using hdmi: misc
+Fri Oct 20 13:06:21 2017: added todo list to botlle app : academic
+Fri Oct 20 13:06:54 2017: watched a hindi movie (jagga jasoos ) after a long time: misc
+Sat Oct 21 09:59:17 2017: Put money in mf #firsttime: wealth
+Sat Oct 21 10:28:39 2017: Did 3 surya namskar: health
+Sat Oct 21 11:48:52 2017: Paid tikana bill: wealth
+Sun Oct 22 11:29:43 2017: Cut my nails :-): personal
+Sun Oct 22 16:39:46 2017: Talked to nisha and others : social
+Mon Oct 23 08:29:03 2017: Add 2 bills to eQ box: wealth
+Mon Oct 23 09:09:43 2017: added navbar bootstrap and serial number using javascript in bottle app: academic
+Mon Oct 23 10:07:35 2017: Did 4 surya namskar: health
+Tue Oct 24 08:23:19 2017: Update all passbooks: wealth
+Tue Oct 24 16:17:06 2017: get id case: misc
+Tue Oct 24 16:17:27 2017: get jio phone: family
+Wed Oct 25 08:19:51 2017: Pure it booking: family
+Wed Oct 25 08:19:59 2017: Gas booo: family
+Wed Oct 25 13:56:56 2017: Did 4 surya namskar and 5 mins anulom vilom: health
+Thu Oct 26 12:19:14 2017: Frank green tea: health
+Thu Oct 26 16:18:41 2017: Talked to Akhil after long time: social
+Thu Oct 26 16:19:32 2017: Did 4 surya namskar and 5 mins anulom vilom and walking: health
+Sat Oct 28 06:49:05 2017: Talked with someone in garden #firsttime: social
+Sat Oct 28 11:46:07 2017: Mom found the pendrive finally :-): family
+Sat Oct 28 16:20:35 2017: New tiffin: family
+Sat Oct 28 16:21:20 2017: Visites shani Mandir: health
+Sat Oct 28 16:22:01 2017: Bought night dress: personal
+Sun Oct 29 13:03:40 2017: Finally kruti can solve Rubik's cube: family
+Sun Oct 29 13:04:13 2017: Did neuropathy session : health
+Sun Oct 29 13:05:14 2017: Met sanket and pranali in Aundh : social
+Mon Oct 30 05:55:41 2017: did jio recharge: personal
+Fri Nov 17 11:14:10 2017: completed ppts of js and  datetime java1.8: academic
+Sun Nov 26 11:02:30 2017: added some more money in liquid mf: wealth
+Sun Nov 26 15:35:47 2017: Laminate all certificates: academic
+Sun Dec  3 16:13:15 2017: Read all the paper cuttings in investing: wealth
+Fri Dec  8 16:37:14 2017: Specs nose pad: health
+Tue Dec 12 15:45:01 2017: Linked Aadhar to mf: wealth
+Tue Dec 12 15:45:47 2017: Researched about else ,index and compared their returns to liquid fund : wealth
+Thu Dec 14 05:26:49 2017: communication is always two ways: spritual
+Thu Dec 14 05:27:19 2017: what you eat ,forms some part of your heart: spritual
+Thu Dec 14 05:28:27 2017: As a child you fell while learning but you never gave up, see what you are today: spritual
+Thu Dec 14 05:29:11 2017: Today try to be better than what you were yesterday.: spritual
+Fri Dec 15 14:27:28 2017: Complete blender within the given time else leave: academic
+Fri Dec 15 17:02:03 2017: batteries: wealth
